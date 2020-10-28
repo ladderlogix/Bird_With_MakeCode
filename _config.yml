@@ -4,7 +4,6 @@ makecode:
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-cayman
 show_downloads: true
-google_analytics: [G-GFQ94T9MXC]
 include:
   - assets
   - README.md
