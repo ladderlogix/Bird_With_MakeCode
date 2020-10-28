@@ -11,6 +11,16 @@ To edit this repository in MakeCode.
 
 open **[https://makecode.microbit.org/_XrmKTz6d60fw](https://makecode.microbit.org/_XrmKTz6d60fw)**
 
+## How to play
+- Lauch Game (recomend using my key board ShortCuts Program listed below)
+- Let game boot and display text
+- Select a pin 0 - 1 life pin, 1 - 2 lifes, pin 2 - 3 lifes
+- A is to go up
+- B is to go Down
+- A + B Pause while in game or start new game if not in a game
+- Play
+- Have fun and share
+
 ## Key Board ShortCuts
 
 I published my code for this to this [https://github.com/SGlombicki/MicroBit-A-B-Key-mapped](https://github.com/SGlombicki/MicroBit-A-B-Key-mapped) GitHub repo
