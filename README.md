@@ -6,6 +6,10 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/sglombicki/bird_with_makecode** and click import
 
+## My Project Share
+
+https://makecode.microbit.org/_XrmKTz6d60fw
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
