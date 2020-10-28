@@ -10,6 +10,10 @@ To edit this repository in MakeCode.
 
 open **[https://makecode.microbit.org/_XrmKTz6d60fw](https://makecode.microbit.org/_XrmKTz6d60fw)**
 
+## Key Board ShortCuts
+
+I published my code for this to this(https://github.com/SGlombicki/MicroBit-A-B-Key-mapped) GitHub repo
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
