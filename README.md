@@ -18,6 +18,9 @@ I published my code for this to this [https://github.com/SGlombicki/MicroBit-A-B
 ## Me trying to make this with an ardunio
 I will try to make this using and arduio i will post the repo when i am done
 
+## Emulator
+[https://sglombicki.github.io/Bird_With_MakeCode/Emulator.html](https://sglombicki.github.io/Bird_With_MakeCode/Emulator.html)
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
