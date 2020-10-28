@@ -12,7 +12,7 @@ open **[https://makecode.microbit.org/_XrmKTz6d60fw](https://makecode.microbit.o
 
 ## Key Board ShortCuts
 
-I published my code for this to this(https://github.com/SGlombicki/MicroBit-A-B-Key-mapped) GitHub repo
+I published my code for this to this [https://github.com/SGlombicki/MicroBit-A-B-Key-mapped](https://github.com/SGlombicki/MicroBit-A-B-Key-mapped) GitHub repo
 
 ## Blocks preview
 
