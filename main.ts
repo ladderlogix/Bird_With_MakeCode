@@ -47,9 +47,6 @@ input.onButtonPressed(Button.AB, function () {
 input.onButtonPressed(Button.B, function () {
     bird.change(LedSpriteProperty.Y, 1)
 })
-let HighScore2 = 0
-let HighScore1 = 0
-let HighScore0 = 0
 let finalscore = 0
 let emptyObsticaleY = 0
 let ticks = 0
@@ -65,6 +62,9 @@ let Diffucluty_select = 0
 let Setup = 0
 let bird: game.LedSprite = null
 let HighScore = 0
+let HighScore0 = 0
+let HighScore1 = 0
+let HighScore2 = 0
 NewGame()
 basic.forever(function () {
     if (Setup == 1) {

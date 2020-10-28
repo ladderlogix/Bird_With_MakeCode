@@ -1,5 +1,5 @@
 {
-    "name": "bird",
+    "name": "Flappy Bird But Better",
     "description": "",
     "dependencies": {
         "core": "*",
