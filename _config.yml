@@ -2,7 +2,7 @@ makecode:
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 include:
   - assets
   - README.md
