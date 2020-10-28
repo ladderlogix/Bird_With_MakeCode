@@ -8,7 +8,7 @@ To edit this repository in MakeCode.
 
 ## My Project Share
 
-open [https://makecode.microbit.org/_XrmKTz6d60fw]([https://makecode.microbit.org/_XrmKTz6d60fw])
+open [https://makecode.microbit.org/_XrmKTz6d60fw](https://makecode.microbit.org/_XrmKTz6d60fw)
 
 ## Blocks preview
 
