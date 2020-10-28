@@ -3,6 +3,7 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-cayman
+show_downloads: true
 include:
   - assets
   - README.md
