@@ -1,3 +1,4 @@
+# Flappy Bird with Make Code
 ## Edit/Open this project ![Build status badge](https://github.com/sglombicki/bird_with_makecode/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
