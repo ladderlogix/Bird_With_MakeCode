@@ -6,4 +6,3 @@ theme: jekyll-theme-cayman
 show_downloads: true
 include:
   - assets
-  - README.md
