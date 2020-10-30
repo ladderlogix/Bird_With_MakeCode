@@ -1,3 +1,13 @@
+function RandomNumberGenSpeed () {
+    if (RandomSpeed < 5) {
+        speed += -10
+    } else if (RandomSpeed == 5) {
+        speed += 50
+    } else if (RandomSpeed > 5) {
+        speed += 10
+    }
+    speed += Math.min(speed, 500)
+}
 input.onButtonPressed(Button.A, function () {
     bird.change(LedSpriteProperty.Y, -1)
 })
@@ -54,17 +64,19 @@ let Play_again = 0
 let life = 0
 let diffculty = 0
 let score = 0
-let speed = 0
 let obstacles: game.LedSprite[] = []
 let index = 0
 let IsAlive = 0
 let Diffucluty_select = 0
 let Setup = 0
 let bird: game.LedSprite = null
+let speed = 0
+let RandomSpeed = 0
 let HighScore = 0
 let HighScore0 = 0
 let HighScore1 = 0
 let HighScore2 = 0
+RandomSpeed = 0
 NewGame()
 basic.forever(function () {
     if (Setup == 1) {
@@ -119,7 +131,8 @@ basic.forever(function () {
         for (let obstacle of obstacles) {
             if (obstacle.get(LedSpriteProperty.X) == bird.get(LedSpriteProperty.X)) {
                 score += 1
-                speed += -10
+                RandomSpeed += randint(0, 10)
+                RandomNumberGenSpeed()
             }
         }
         ticks += 1
