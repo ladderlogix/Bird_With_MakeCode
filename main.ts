@@ -132,6 +132,9 @@ basic.forever(function () {
             if (obstacle.get(LedSpriteProperty.X) == bird.get(LedSpriteProperty.X)) {
                 score += 1
                 RandomSpeed += randint(0, 10)
+                if (speed > 750) {
+                    speed += -10
+                }
                 RandomNumberGenSpeed()
             }
         }
