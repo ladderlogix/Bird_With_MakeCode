@@ -25,9 +25,6 @@ open **[https://makecode.microbit.org/_XrmKTz6d60fw](https://makecode.microbit.o
 
 I published my code for this to this [https://github.com/SGlombicki/MicroBit-A-B-Key-mapped](https://github.com/SGlombicki/MicroBit-A-B-Key-mapped) GitHub repo
 
-## Me trying to make this with an ardunio
-I will try to make this using and arduio i will post the repo when i am done
-
 ## Emulator
 [https://sglombicki.github.io/Bird_With_MakeCode/Emulator.html](https://sglombicki.github.io/Bird_With_MakeCode/Emulator.html)
 
